@@ -11,6 +11,6 @@ author: jamesfoster
 Some text
 
 List:
-  - [listitem1](#listitem1)
-  - [listitem2](#listitem2)
-  - [listitem3](#listitem3)
+- [listitem1](#listitem1)
+- [listitem2](#listitem2)
+- [listitem3](#listitem3)
